@@ -1,7 +1,9 @@
-## Catlike Coding Tutorials for Unity
+# Catlike Coding Tutorials for Unity
 Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/tutorials/) to learn Unity
 
-## Basics
+## Tutorials Completed
+
+### Basics
 
 #### Simple Clock: [Code](Simple%20Clock) | [Game Objects and Scripts](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/)
 
@@ -51,7 +53,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![measuring_performance](images/measuring_performance.gif)
 
-## Movement 
+### Movement 
 
 #### Player-Controlled Motion: [Code](Player-Controlled%20Motion) | [Sliding a Sphere](https://catlikecoding.com/unity/tutorials/movement/sliding-a-sphere/)
 
