@@ -73,3 +73,13 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [X] Move along slopes.
 
 ![pushing_a_sphere_around](images/pushing_a_sphere_around.gif)
+
+#### Staying in Touch: [Code](Staying%20in%20Touch) | [Tutorial - Surface Contact](https://catlikecoding.com/unity/tutorials/movement/surface-contact/)
+
+- [X] Stick to the ground instead of launching off a ramp.
+- [X] Perform a raycast.
+- [X] Configure multiple layers and their interaction.
+- [ ] Navigate stairs.
+- [ ] Make use of steep contacts.
+
+![staying_in_touch](images/staying_in_touch.gif)
