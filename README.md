@@ -14,7 +14,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![simple_clock](images/simple_clock.gif)
 
-#### Visualizing Math: [Code](Visualizing%20Math) | [Building a Graph](https://catlikecoding.com/unity/tutorials/basics/building-a-graph/)
+#### Visualizing Math: [Code](Visualizing%20Math) | [Tutorial - Building a Graph](https://catlikecoding.com/unity/tutorials/basics/building-a-graph/)
 
 - Create a prefab.
 - Instantiate a line of cubes.
