@@ -5,7 +5,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ### Basics
 
-#### Simple Clock: [Code](Simple%20Clock) | [Game Objects and Scripts](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/)
+#### Simple Clock: [Code](Simple%20Clock) | [Tutorial - Game Objects and Scripts](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/)
 
 - [X] Build a clock with simple objects.
 - [X] Write a C# script.
@@ -24,7 +24,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![visualizing_math](images/visualizing_math.gif)
 
-#### Sculpting with Numbers: [Code](Sculpting%20with%20Numbers) | [Mathematical Surfaces](https://catlikecoding.com/unity/tutorials/basics/mathematical-surfaces/)
+#### Sculpting with Numbers: [Code](Sculpting%20with%20Numbers) | [Tutorial - Mathematical Surfaces](https://catlikecoding.com/unity/tutorials/basics/mathematical-surfaces/)
 
 - [X] Support multiple function methods.
 - [X] Use a delegate and enumeration.
@@ -33,7 +33,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![sculpting_with_numbers](images/sculpting_with_numbers.gif)
 
-#### Details Through Recursion: [Code](Details%20Through%20Recursion) | [Constructing a Fractal](https://catlikecoding.com/unity/tutorials/constructing-a-fractal/)
+#### Details Through Recursion: [Code](Details%20Through%20Recursion) | [Tutorial - Constructing a Fractal](https://catlikecoding.com/unity/tutorials/constructing-a-fractal/)
 
 - [X] Instantiate game objects.
 - [X] Work with recursion.
@@ -42,7 +42,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![details_through_recursion](images/details_through_recursion.gif)
 
-#### Measuring Performance: [Code](Measuring%20Performance) | [Frames Per Second](https://catlikecoding.com/unity/tutorials/frames-per-second/)
+#### Measuring Performance: [Code](Measuring%20Performance) | [Tutorial - Frames Per Second](https://catlikecoding.com/unity/tutorials/frames-per-second/)
 
 - [X] Use physics to create an ever-growing atomic nucleus.
 - [X] Use the profiler to investigate performance.
@@ -55,7 +55,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ### Movement 
 
-#### Player-Controlled Motion: [Code](Player-Controlled%20Motion) | [Sliding a Sphere](https://catlikecoding.com/unity/tutorials/movement/sliding-a-sphere/)
+#### Player-Controlled Motion: [Code](Player-Controlled%20Motion) | [Tutorial - Sliding a Sphere](https://catlikecoding.com/unity/tutorials/movement/sliding-a-sphere/)
 
 - [X] Put a sphere with a trail on a plane.
 - [X] Position the sphere based on player input.
@@ -64,7 +64,7 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![player_controlled_motion](images/player_controlled_motion.gif)
 
-#### Pushing a Sphere Around: [Code](Pushing%20a%20Sphere%20Around) | [Physics](https://catlikecoding.com/unity/tutorials/movement/physics/)
+#### Pushing a Sphere Around: [Code](Pushing%20a%20Sphere%20Around) | [Tutorial - Physics](https://catlikecoding.com/unity/tutorials/movement/physics/)
 
 - [X] Control the velocity of a rigidbody sphere.
 - [X] Support vertical movement via jumping.
