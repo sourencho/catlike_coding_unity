@@ -63,3 +63,13 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [X] Limit the sphere's position and make it bounce off edges.
 
 ![player_controlled_motion](images/player_controlled_motion.gif)
+
+#### Pushing a Sphere Around: [Code](Pushing%20a%20Sphere%20Around) | [Physics](https://catlikecoding.com/unity/tutorials/movement/physics/)
+
+- [X] Control the velocity of a rigidbody sphere.
+- [X] Support vertical movement via jumping.
+- [X] Detect the ground and its angle.
+- [X] Use a ProBuilder to create test scenes.
+- [X] Move along slopes.
+
+![pushing_a_sphere_around](images/pushing_a_sphere_around.gif)
