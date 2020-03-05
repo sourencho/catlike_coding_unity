@@ -83,3 +83,12 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [ ] Make use of steep contacts.
 
 ![staying_in_touch](images/staying_in_touch.gif)
+
+#### Relative Control: [Code](Relative%20Control) | [Tutorial - Orbit Camera](https://catlikecoding.com/unity/tutorials/movement/orbit-camera/)
+
+- [X] Create an orbiting camera.
+- [X] Support manual and automatic camera rotation.
+- [ ] Make movement relative to the camera.
+- [ ] Prevent the camera from intersecting geometry.
+
+![relative_control](images/relative_control.gif)
