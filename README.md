@@ -92,3 +92,13 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [ ] Prevent the camera from intersecting geometry.
 
 ![relative_control](images/relative_control.gif)
+
+#### Creating, Saving, and Loading: [Code](Creating%2C%20Saving%2C%20and%20Loading) | [Tutorial - Persisting Objects](https://catlikecoding.com/unity/tutorials/object-management/persisting-objects/)
+
+- [X] Spawn random cubes in response to a key press.
+- [X] Use a generic type and virtual methods.
+- [X] Write data to a file and read it back.
+- [X] Save the game state so it can be loaded later.
+- [X] Encapsulate the details of persisting data.
+
+![creating_saving_and_loading](images/creating_saving_and_loading.gif)
