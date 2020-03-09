@@ -113,3 +113,14 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [X] Enable GPU instancing.
 
 ![fabricating_shapes](images/fabricating_shapes.gif)
+
+#### Object Pools: [Code](Object%20Pools) | [Tutorial - Reusing Objects](https://catlikecoding.com/unity/tutorials/object-management/reusing-objects/)
+
+- [X] Destroy shapes.
+- [X] Automate creation and destruction.
+- [X] Build a simple GUI.
+- [X] Track memory allocations with the profiler.
+- [X] Use objects pools to recycle shapes.
+
+![object_pools](images/object_pools.gif)
+
