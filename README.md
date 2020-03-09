@@ -104,3 +104,12 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [X] Encapsulate the details of persisting data.
 
 ![creating_saving_and_loading](images/creating_saving_and_loading.gif)
+
+#### Fabricating Shapes: [Code](Fabricating%20Shapes) | [Tutorial - Object Variety](https://catlikecoding.com/unity/tutorials/object-management/object-variety/)
+
+- [X] Create a factory for shapes.
+- [X] Save and load shape identifiers.
+- [X] Support multiple materials and random colors.
+- [X] Enable GPU instancing.
+
+![fabricating_shapes](images/fabricating_shapes.gif)
