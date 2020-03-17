@@ -132,3 +132,13 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [X] Support game levels.
 
 ![loading_levels](images/loading_levels.gif)
+
+#### Level Variety: [Code](Level%20Variety) | [Tutorial - Spawn Zones](https://catlikecoding.com/unity/tutorials/object-management/spawn-zones/)
+
+- [X] Create a spawn zone and transform it.
+- [X] Use gizmos to visualize spawn zones.
+- [X] Support a different spawn zone per scene.
+- [X] Connect objects from different scenes.
+- [X] Create multiple spawn zone types.
+
+![level_variety](images/level_variety.gif)
