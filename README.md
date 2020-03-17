@@ -124,3 +124,11 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 
 ![object_pools](images/object_pools.gif)
 
+#### Loading Levels: [Code](Loading%20Levels) | [Tutorial - Multiple Scenes](https://catlikecoding.com/unity/tutorials/object-management/multiple-scenes/)
+
+- [X] Create a scene in play mode.
+- [X] Move objects between scenes.
+- [X] Work with multiple scenes.
+- [X] Support game levels.
+
+![loading_levels](images/loading_levels.gif)
