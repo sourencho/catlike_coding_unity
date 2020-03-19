@@ -142,3 +142,55 @@ Projects made with [Cat Like Coding tutorials](https://catlikecoding.com/unity/t
 - [X] Create multiple spawn zone types.
 
 ![level_variety](images/level_variety.gif)
+
+#### Saving All That Matters (Skipped) | [Tutorial - More Game State](https://catlikecoding.com/unity/tutorials/object-management/more-game-state/)
+
+- [ ] Keep track of randomness.
+- [ ] Save level data.
+- [ ] Loop through spawn zones.
+- [ ] Create a rotating level object.
+
+#### Variety of Randomness (Skipped) | [Tutorial - Configuring Shapes](https://catlikecoding.com/unity/tutorials/object-management/configuring-shapes/)
+
+- [ ] Make shapes rotate and move.
+- [ ] Centralize game updates.
+- [ ] Add configuration per spawn zone.
+- [ ] Improve the inspector.
+
+#### Where Shapes Come From (Skipped) | [Tutorial - More Factories](https://catlikecoding.com/unity/tutorials/object-management/more-factories/)
+
+- [ ] Create composite shapes.
+- [ ] Support multiple colors per shape.
+- [ ] Select factories per spawn zone.
+- [ ] Keep track of a shape's origin factory.
+
+#### Modular Functionality (Skipped) | [Tutorial - Shape Behavior](https://catlikecoding.com/unity/tutorials/object-management/shape-behavior/)
+
+- [ ] Define abstract and concrete behavior for shapes.
+- [ ] Only include behavior when needed.
+- [ ] Create a generic method and class.
+- [ ] Use conditional compilation.
+- [ ] Add a method to an enumeration.
+- [ ] Make shapes oscillate.
+
+#### Shape Relationships (Skipped) | [Tutorial - Satellites](https://catlikecoding.com/unity/tutorials/object-management/satellites/)
+
+- [ ] Spawn multiple shapes at once.
+- [ ] Make a shape orbit another shape.
+- [ ] Keep track of references to specific shape instances.
+- [ ] Enforce a shape population limit.
+
+#### Growth and Death (Skipped) | [Tutorial - Lifecycle](https://catlikecoding.com/unity/tutorials/object-management/lifecycle/)
+
+- [ ] Make shapes grow and shrink.
+- [ ] Allow behavior to kill shapes.
+- [ ] Delay killing until after the game update loop.
+- [ ] Replace immediate shape destruction with shrinking.
+
+#### Spawn, Kill, and Life Zones (Skipped) | [Tutorial - More Complex Levels](https://catlikecoding.com/unity/tutorials/object-management/more-complex-levels/)
+
+- [ ] Make spawning automatic.
+- [ ] Create zones antithetical to or essential for life.
+- [ ] Control which zones affect which shapes.
+- [ ] Centralize level object updates and add editor support.
+- [ ] Use partial classes.
